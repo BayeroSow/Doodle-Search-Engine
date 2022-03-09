@@ -18,7 +18,7 @@ This is a serch engine that analyzes a content of a page, catalogs images and vi
 
 ### User
 
-this page focuses on web pages. Doogle follows three basic steps to generate results from web pages
+this page focuses on web pages. Doodle follows three basic steps to generate results from web pages
 
 - Crawling
 - Indexing
