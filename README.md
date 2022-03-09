@@ -36,4 +36,3 @@ this page focuses on web pages. Doodle follows three basic steps to generate res
 - text: textfield
 - createdAt: timestamp
 - updatedAt: timestamp
-- project: FK
