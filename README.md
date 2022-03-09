@@ -1,5 +1,5 @@
 # Search Engine
-This is a serch engine that analyzes a content of a page, catalogs images and video files embedded on the page
+This is a search engine that analyzes a content of a page, catalogs images and video files embedded on the page.
 
 
 # Requirements
