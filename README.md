@@ -11,14 +11,15 @@ This is a search engine that analyzes a content of a page, catalogs images and v
 # Tech Stack
 - Visual Studio Code
 - Ajax
-- third party tools
+- Xamp
+- Third party tools
 
 
 # Schema
 
 ### User
 
-this page focuses on web pages. Doodle follows three basic steps to generate results from web pages
+This page focuses on web pages. Doodle follows three basic steps to generate results from web pages
 
 - Crawling
 - Indexing
