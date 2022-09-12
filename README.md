@@ -2,6 +2,9 @@
 <img src="assets/img/Two.PNG" style="max-width: 100%; height: 100%">
 <img src="assets/img/Three.PNG" style="max-width: 100%; height: 100%">
 <img src="assets/img/Four.PNG" style="max-width: 100%; height: 100%">
+
+
+![alt text](https://github.com/BayeroSow/Doodle-Search-Engine/One.PNG)
  
 
 # Search Engine
