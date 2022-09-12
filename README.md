@@ -1,5 +1,5 @@
 ![alt text](images/One.PNG)
-![alt text](images/Two.PNG)
+![alt text](images/Two.png)
 ![alt text](images/Three.PNG)
 ![alt text](images/Four.PNG)
 
