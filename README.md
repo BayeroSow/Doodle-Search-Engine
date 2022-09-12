@@ -1,4 +1,4 @@
-![alt text](https://github.com/BayeroSow/Doodle-Search-Engine/One.PNG?raw=true)
+![alt text](images/One.PNG)
  
 
 # Search Engine
