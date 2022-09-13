@@ -1,8 +1,12 @@
-![alt text](assets/images/One.PNG)
-![alt text](assets/images/Two.png)
-![alt text](assets/images/Three.png)
-![alt text](assets/images/Four.png)
-![alt text](assets/images/Five.PNG)
+<img src="assets/images/One.PNG" width="1000">
+<img src="assets/images/Two.png" width="1000">
+<img src="assets/images/Three.PNG" width="1000">
+<img src="assets/images/Four.PNG" width="1000">
+<img src="assets/images/Five.PNG" width="1000">
+
+
+
+
 
 
 # Search Engine
