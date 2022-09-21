@@ -23,7 +23,6 @@ This is a search engine that analyzes a content of a page, catalogs images and v
 - Visual Studio Code
 - Ajax
 - Xamp
-- Third party tools
 
 
 # Schema
