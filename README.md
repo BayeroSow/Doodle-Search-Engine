@@ -5,10 +5,6 @@
 <img src="assets/images/Five.PNG" width="1000">
 
 
-
-
-
-
 # Search Engine
 This is a search engine that analyzes a content of a page, catalogs images and video files embedded on the page.
 
